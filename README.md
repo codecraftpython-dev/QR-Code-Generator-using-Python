@@ -16,7 +16,7 @@ Python 3
 qrcode library
 Pillow (PIL) for image generation
 
-📂 Project Structure
+## 📂 Project Structure
 qr-code-generator/
 │
 ├── qr_generator.py
