@@ -38,12 +38,11 @@ After execution, a QR code image will be generated and saved in the project dire
 🧪 Example Code
 Basic QR Code
 import qrcode as qr
-
 img = qr.make("https://www.youtube.com/")
 img.save("Youtube.png")
 
 📸 Output
-
+![QR Code Output](My_Website.png)
 Fully scannable using any QR scanner app
 
 🎯 Use Cases
