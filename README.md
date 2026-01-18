@@ -35,14 +35,8 @@ Run the Python file:
 python qr_generator.py
 After execution, a QR code image will be generated and saved in the project directory.
 
-🧪 Example Code
-Basic QR Code
-import qrcode as qr
-img = qr.make("https://www.youtube.com/")
-img.save("Youtube.png")
-
 📸 Output
-![QR Code Output](My_Website.png)
+![QR Code Output](My_Github_profile.png)
 Fully scannable using any QR scanner app
 
 🎯 Use Cases
